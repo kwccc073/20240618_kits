@@ -1,2 +1,2 @@
 # 20240618_-
-AOS、Swipers
+AOS、Swipers等各種套件
